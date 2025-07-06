@@ -46,7 +46,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 Backend runs on: http://localhost:8000
 ```
-##🚀 Deployment
+## 🚀 Deployment
 This backend is deployed on Render for scalable, production-grade API hosting, ensuring fast, reliable, and secure integration with your frontend workflows.
 
 To deploy on Render:
