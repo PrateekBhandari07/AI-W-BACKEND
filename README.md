@@ -1,7 +1,7 @@
 
 ---
 
-## ✅ Backend – `README.md` for `HWI-BACKEND`
+## ✅ Backend – `README.md` for `AI-W BACKEND`
 
 ```markdown
 # TrustPilot: Ethos Insights Hub – Backend
